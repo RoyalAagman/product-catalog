@@ -27,13 +27,13 @@
     {"id":"prod-1c97f2e5-021","name":"Standard Item 21","category":"sports","price":34.47,"stock":164,"rating":2}
   ],
   "aggregations": {
+    "books": {
+      "count": 2,
+      "inventoryValue": 24493.11
+    },
     "clothing": {
       "count": 6,
       "inventoryValue": 126558.33
-    },
-    "sports": {
-      "count": 7,
-      "inventoryValue": 161357.15
     },
     "electronics": {
       "count": 4,
@@ -41,11 +41,11 @@
     },
     "home": {
       "count": 2,
-      "inventoryValue": 30571.93
+      "inventoryValue": 30513.93
     },
-    "books": {
-      "count": 2,
-      "inventoryValue": 24498.21
+    "sports": {
+      "count": 7,
+      "inventoryValue": 161357.15
     }
   }
 }
