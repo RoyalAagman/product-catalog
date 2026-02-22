@@ -28,8 +28,8 @@
   ],
   "aggregations": {
     "clothing": {
-      "count": 7,
-      "inventoryValue": 127245.05
+      "count": 6,
+      "inventoryValue": 126558.33
     },
     "sports": {
       "count": 7,
